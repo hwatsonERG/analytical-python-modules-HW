@@ -151,3 +151,9 @@ Analytical workflows should fail loudly when assumptions are violated. Strong va
 **Why this matters**
 
 AI can increase productivity, but analytical responsibility remains with the practitioner. Learning how to use AI effectively and critically is becoming an important professional skill.
+
+## AI in the Development Process
+
+This repository reflects a working approach that combines traditional analytical skills with modern AI-assisted development. AI tools are used to accelerate learning, generate training examples, draft documentation, and explore alternative solutions.
+
+The objective is not to automate thinking, but to spend less time on routine tasks and more time on validation, interpretation, and problem solving. As AI capabilities evolve, the repository will continue to document both technical Python skills and effective practices for AI-supported analytical work.
