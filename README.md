@@ -1,4 +1,4 @@
-﻿# analytical-python-modules-ERG
+﻿# analytical-python-modules-HW
 
 # Python Training Repository
 
